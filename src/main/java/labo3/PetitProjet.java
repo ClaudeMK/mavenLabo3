@@ -8,7 +8,8 @@ public class PetitProjet {
 		//Hello
 	}
 	
-	public static int maMethodeCalculAddition(int nb1, int nb2) { 
+	public static int maMethodeCalculAddition(int nb1, int nb2) {
+		//Calcul de deux nombres
 		return (nb1 + nb2);
 	}
 
